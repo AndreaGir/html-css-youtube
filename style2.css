@@ -1,0 +1,18 @@
+@media (max-width: 800px) {
+    .play-list{
+        display: flex;
+        flex-direction: column;
+    }
+    .info > p{
+        display: none;
+    }
+    .menu-item{
+        display: flex;
+        flex-direction: column;
+        width: 100px;
+    }
+    .widget{
+        
+        border-bottom: 5px solid #e5e5e5;
+      }
+}
