@@ -12,7 +12,10 @@
         width: 100px;
     }
     .widget{
+        border: none;
         
-        border-bottom: 5px solid #e5e5e5;
       }
+    .side-bar{
+        width: 100px;
+    }
 }
